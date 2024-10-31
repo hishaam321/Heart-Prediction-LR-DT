@@ -52,4 +52,4 @@ Conclusion
 This project demonstrates the use of machine learning techniques to assist in the early detection of heart disease, providing valuable insights for healthcare professionals. Both Logistic Regression and Decision Tree offer effective solutions, with trade-offs between interpretability and complexity.
 
 License
-This project is licensed under the MIT License. See the LICENSE (LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE ([LICENSE](https://github.com/hishaam321/Heart-Prediction-LR-DT/blob/794c2690ca8d71e6ecec13d984e5b70df1fbd467/LICENSE)) file for details.
